@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-file-io",
+      "title": "Python File I/O and Data Persistence",
+      "description": "Read and write text files and CSV data to save program state using Python.",
+      "path": "assignments/python-file-io",
+      "dueDate": "2026-06-24",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
